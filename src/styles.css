@@ -1,0 +1,61 @@
+body {
+  /* background-color: #a8d0e6; */
+  /* background-color: #7cc2ae; */
+  background-color: RGB(176, 168, 157);
+  color: white;
+  text-align: center;
+  font-family: "Cantarell", sans-serif;
+  padding: 10px 10px 50px 10px;
+}
+
+h1 {
+  margin: 130px auto 20px auto;
+  font-size: 4.5em;
+  font-family: "Fjalla One", sans-serif;
+}
+
+p {
+  color: "#EDECE8";
+  /* color: #F38187; */
+  font-size: 1.6em;
+}
+
+.input-area {
+  margin: 50px;
+}
+
+.file-name {
+  margin: 10px;
+  border-bottom: 5px solid #c2bbac;
+}
+
+.rotated {
+  /* transform: rotate(20deg); */
+  display: inline-block;
+}
+
+.wordcloud {
+  padding: 5% 5% 10% 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  line-height: 0.8;
+}
+
+/* .submit {
+  margin-left: 10px;
+} */
+
+/* .btn {
+  margin: 0px 0px 20px 0px;
+} */
+
+.slider-area {
+  margin: 20px auto;
+  text-align: left;
+  font-size: 0.8em;
+  width: 60%;
+}
+.slider-area p {
+  color: #85586f;
+}
